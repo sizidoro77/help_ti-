@@ -1,0 +1,61 @@
+2026/07/25-22:14:12.124 5760 Reusing MANIFEST C:\Users\Dell\Desktop\Chatbot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/25-22:14:12.127 5760 Recovering log #1124
+2026/07/25-22:14:12.257 5760 Reusing old log C:\Users\Dell\Desktop\Chatbot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001124.log 
+2026/07/25-22:14:21.415 5610 Level-0 table #1150: started
+2026/07/25-22:14:21.533 5610 Level-0 table #1150: 1358744 bytes OK
+2026/07/25-22:14:21.632 5610 Delete type=0 #1124
+2026/07/25-22:14:21.736 3b78 Compacting 1@0 + 0@1 files
+2026/07/25-22:14:21.900 3b78 Generated table #1151@0: 15188 keys, 372086 bytes
+2026/07/25-22:14:21.938 3b78 Generated table #1152@0: 2104 keys, 66486 bytes
+2026/07/25-22:14:21.938 3b78 Compacted 1@0 + 0@1 files => 438572 bytes
+2026/07/25-22:14:21.970 3b78 compacted to: files[ 0 2 26 0 0 0 0 ]
+2026/07/25-22:14:22.462 3f7c Compacting 1@1 + 10@2 files
+2026/07/25-22:14:22.676 3f7c Generated table #1153@1: 43165 keys, 2222471 bytes
+2026/07/25-22:14:22.844 3f7c Generated table #1154@1: 59568 keys, 2225535 bytes
+2026/07/25-22:14:22.937 3f7c Generated table #1155@1: 15229 keys, 2153249 bytes
+2026/07/25-22:14:23.050 3f7c Generated table #1156@1: 1410 keys, 2140888 bytes
+2026/07/25-22:14:23.141 3f7c Generated table #1157@1: 1492 keys, 2145263 bytes
+2026/07/25-22:14:23.226 3f7c Generated table #1158@1: 1164 keys, 2133345 bytes
+2026/07/25-22:14:23.308 3f7c Generated table #1159@1: 1961 keys, 2145970 bytes
+2026/07/25-22:14:23.401 3f7c Generated table #1160@1: 6355 keys, 2163257 bytes
+2026/07/25-22:14:23.475 3f7c Generated table #1161@1: 28496 keys, 2269701 bytes
+2026/07/25-22:14:23.542 3f7c Generated table #1162@1: 26047 keys, 2249739 bytes
+2026/07/25-22:14:23.549 3f7c Generated table #1163@1: 980 keys, 76581 bytes
+2026/07/25-22:14:23.549 3f7c Compacted 1@1 + 10@2 files => 21925999 bytes
+2026/07/25-22:14:23.550 3f7c compacted to: files[ 0 1 27 0 0 0 0 ]
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1128
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1129
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1130
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1131
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1132
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1133
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1134
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1135
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1136
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1137
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1150
+2026/07/25-22:14:23.551 3f7c Delete type=2 #1151
+2026/07/25-22:14:37.696 5760 Compacting 1@1 + 10@2 files
+2026/07/25-22:14:37.824 5760 Generated table #1164@1: 16024 keys, 2195801 bytes
+2026/07/25-22:14:37.921 5760 Generated table #1165@1: 2369 keys, 2120809 bytes
+2026/07/25-22:14:38.043 5760 Generated table #1166@1: 3398 keys, 2123026 bytes
+2026/07/25-22:14:38.209 5760 Generated table #1167@1: 81362 keys, 2222871 bytes
+2026/07/25-22:14:38.353 5760 Generated table #1168@1: 107935 keys, 2260069 bytes
+2026/07/25-22:14:38.527 5760 Generated table #1169@1: 108452 keys, 2259962 bytes
+2026/07/25-22:14:38.657 5760 Generated table #1170@1: 108173 keys, 2258743 bytes
+2026/07/25-22:14:38.810 5760 Generated table #1171@1: 107873 keys, 2258257 bytes
+2026/07/25-22:14:38.968 5760 Generated table #1172@1: 107696 keys, 2257996 bytes
+2026/07/25-22:14:39.099 5760 Generated table #1173@1: 44673 keys, 1225487 bytes
+2026/07/25-22:14:39.099 5760 Compacted 1@1 + 10@2 files => 21183021 bytes
+2026/07/25-22:14:39.133 5760 compacted to: files[ 0 0 27 0 0 0 0 ]
+2026/07/25-22:14:39.133 5760 Delete type=2 #1138
+2026/07/25-22:14:39.133 5760 Delete type=2 #1139
+2026/07/25-22:14:39.133 5760 Delete type=2 #1140
+2026/07/25-22:14:39.133 5760 Delete type=2 #1141
+2026/07/25-22:14:39.133 5760 Delete type=2 #1142
+2026/07/25-22:14:39.133 5760 Delete type=2 #1143
+2026/07/25-22:14:39.133 5760 Delete type=2 #1144
+2026/07/25-22:14:39.133 5760 Delete type=2 #1145
+2026/07/25-22:14:39.134 5760 Delete type=2 #1146
+2026/07/25-22:14:39.134 5760 Delete type=2 #1147
+2026/07/25-22:14:39.134 5760 Delete type=2 #1152
